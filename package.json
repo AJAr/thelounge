@@ -88,7 +88,7 @@
     "intersection-observer": "0.5.0",
     "istanbul-instrumenter-loader": "3.0.1",
     "jquery": "3.3.1",
-    "jquery-ui": "1.12.1",
+    "jquery-ui": "1.13.2",
     "mini-css-extract-plugin": "0.4.1",
     "mocha": "5.2.0",
     "mocha-loader": "1.1.3",
